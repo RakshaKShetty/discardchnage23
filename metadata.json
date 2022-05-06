@@ -4,16 +4,26 @@
   "pageOrder": [
     "Page1",
     "API",
-    "Vehical"
+    "Vehical",
+    "API Copy"
   ],
   "publishedPageOrder": [
     "Page1",
     "API",
-    "Vehical"
+    "Vehical",
+    "API Copy"
   ],
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
   "invisibleActionFields": {
+    "API Copy_Api1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "API Copy_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "API_Api1": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false

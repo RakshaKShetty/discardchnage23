@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "API Copy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\n\tmyFun1: () => {\n\t\tlet a = Api1.data.users\n\t\treturn a\n\t}\t\n}",
+    "variables": []
+  },
+  "id": "API Copy_JSObject1",
+  "deleted": false,
+  "gitSyncId": "6274abdbe257b32033aae1f2_6274b033e257b32033aae292"
+}
