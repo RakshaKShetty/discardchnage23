@@ -3,17 +3,25 @@
   "serverSchemaVersion": 4,
   "pageOrder": [
     "Page1",
-    "Page2",
+    "API",
     "Vehical"
   ],
   "publishedPageOrder": [
     "Page1",
-    "Page2",
+    "API",
     "Vehical"
   ],
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
   "invisibleActionFields": {
+    "API_Api1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "API_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "Page1_Query1": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false

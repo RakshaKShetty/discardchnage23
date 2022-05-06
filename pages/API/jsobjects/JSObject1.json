@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "API",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\n\tmyFun1: () => {\n\t\tlet a = Api1.data.users\n\t\treturn a\n\t}\t\n}",
+    "variables": []
+  },
+  "id": "API_JSObject1",
+  "deleted": false,
+  "gitSyncId": "6274abdbe257b32033aae1f2_6274ae89e257b32033aae25d"
+}
